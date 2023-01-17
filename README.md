@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋! My name is Mahdi and I'm a <br> Front-end Developer based in Vancouver, BC. 
   <br><br> 
-  Currently seeking internship/full-time opportunities!
+  🚀<font size="10">Currently seeking internship/full-time opportunities!</font>🚀
 </h1>
 
-<h2 align="center"></h2>
 
 ###
 
