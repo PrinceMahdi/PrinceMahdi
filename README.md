@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Mahdi and I'm a <br> Software Developer based in Vancouver, BC. 
+<h1 align="center">Software Developer based in Vancouver, BC. 
 <!--   <br><br> 
   🚀<font size="10">Currently seeking internship/full-time opportunities!</font>🚀 -->
 </h1>
