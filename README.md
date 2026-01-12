@@ -3,14 +3,6 @@
   🚀<font size="10">Currently seeking internship/full-time opportunities!</font>🚀 -->
 </h1>
 
-
-###
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=princemahdi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_rank=false&disable_animations=false" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=princemahdi&layout=compact&theme=dracula&hide=shell&langs_count=7" />
-</div>
-
 ###
 
 <div align="center">
